@@ -1,8 +1,8 @@
-##GCP
+## GCP
 - LAMP
 - OS/WebServer/Database/Lang
 
-##AWS
+## AWS
 - EC2
 - ロードバランサー
 - コンテナ
@@ -10,12 +10,13 @@
 - Lambada
 - SER
 
-##Java
+## Java
 - コンパイル
 - 関数、メソット
 
 
-##C leng
+## C leng
+
 ```shell
 [Komatsu@MacBookPro-Lion cprac]$ vim hello.o
 [Komatsu@MacBookPro-Lion cprac]$ gcc -S hello.c
